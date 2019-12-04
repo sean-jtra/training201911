@@ -1,4 +1,6 @@
+<p>
 Welcome to git 
 Git is awesome!
 Exercise 7
 Line 4
+</p>
